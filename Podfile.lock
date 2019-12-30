@@ -1,20 +1,28 @@
 PODS:
   - Alamofire (5.0.0-rc.3)
   - PromisedFuture (1.0.1)
+  - SwiftSVG (2.3.2)
+  - SwiftyJSON (5.0.0)
 
 DEPENDENCIES:
   - Alamofire (~> 5.0.0-rc.3)
   - PromisedFuture
+  - SwiftSVG (~> 2.0)
+  - SwiftyJSON
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
     - PromisedFuture
+    - SwiftSVG
+    - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: ca8c0de6906873be89d6deec5c8de279e00bf872
   PromisedFuture: 3f863d17c047c3474c85045b254bb1c94743ed0f
+  SwiftSVG: ca7f64e403b8ea7ea8eba8c823b83ba4a059834c
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
 
-PODFILE CHECKSUM: 7e3abff93517b30745c0f886f604f824dabe908c
+PODFILE CHECKSUM: 1abaf723657bcd739d4652fb4f9988f4a0e8fa65
 
 COCOAPODS: 1.7.5
